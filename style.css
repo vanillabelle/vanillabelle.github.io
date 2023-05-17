@@ -95,12 +95,22 @@ input{
 .date{
     font-size: 12px;
 }
-.container {
-  display: flex;
+.button-with-image {
+  display: inline-flex;
   align-items: center;
+  background-color: #fff;
+  border: solid 1px #ccc;
+  padding: 10px;
+  border-radius: 5px;
 }
 
 .resizable-image {
-  max-width: 100%;
-  height: auto;
+  height: 20px;
+  width: auto;
+  margin-right: 10px;
+}
+
+.button-text {
+  font-size: 16px;
+  color: #333;
 }
