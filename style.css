@@ -4,6 +4,9 @@
 .bg-dark{
     background-color: #E4DAC7;
 }
+.bg{
+    background-color: #E4DAC7;
+}
 .navbar{
     padding: 20px;
     font-color: #FFFFFF;
@@ -91,12 +94,4 @@ input{
 }
 .date{
     font-size: 12px;
-}
-
- .logo-image{
-    width: 46px;
-    height: 46px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin-top: -6px;
 }
