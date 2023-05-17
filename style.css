@@ -116,11 +116,11 @@ input{
 }
 
 nav {
-  background-color: #333;
+  background-color: #D8BFD8;
   height: 60px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 }
 
 ul {
@@ -134,7 +134,7 @@ li {
 
 a {
   display: flex;
-  align-items: center;
+  align-items: left;
   color: white;
   text-decoration: none;
 }
