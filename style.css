@@ -7,16 +7,6 @@
 .bg{
     background-color: #E4DAC7;
 }
-.navbar{
-    padding: 20px;
-    font-color: #FFFFFF;
-}
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
-.navbar-brand{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
-    font-color: #FFFFFF;
-}
 .container-1{
     margin-bottom: 50px;
 }
@@ -144,23 +134,4 @@ img {
   height: 45px;
   margin-right: 5px;
 }
-.box {
-  border-radius: 10px;
-  border: 1px solid black;
-  width: 300px;
-  height: 400px;
-  text-align: center;
-}
 
-img {
-  border-radius: 10px 10px 0 0;
-  width: 100%;
-  height: 60%;
-  object-fit: cover;
-}
-
-.info {
-  padding: 10px;
-  background-color: white;
-  height: 40%;
-}
